@@ -14,4 +14,4 @@ else cout << "unable to oprn file";
 return 0;
 }
 
-*/
+
